@@ -1,0 +1,16 @@
+{
+  "name": "eslint-plugin-pd-exemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "jest": "^26.1.0"
+  }
+}
